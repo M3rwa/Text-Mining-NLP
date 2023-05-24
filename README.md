@@ -46,4 +46,4 @@ To use the notebook and explore text mining and NLP techniques, follow these ste
 
 ## Conclusion
 
-The `NLP text Mining.ipynb` notebook in this repository serves as a practical guide for implementing text mining and
+The NLP text Mining.ipynb notebook in this repository serves as a practical guide for implementing text mining and NLP techniques using Python. By understanding and applying the concepts presented in the notebook, you can gain insights into analyzing and extracting valuable information from textual data. Use the provided code examples and instructions to enhance your text mining and NLP skills and explore the potential applications in various domains.
